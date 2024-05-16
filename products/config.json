@@ -1,6 +1,0 @@
-{
-	"name":   "MyServer",
-    "port":   "8080",
-    "host":   "localhost",
-	"status": "online"
-}
